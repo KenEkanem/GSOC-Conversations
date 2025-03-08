@@ -6,7 +6,7 @@ Repo for teams to reach and draggg people to the space
 
 ### Sarah
 
-### Blankson
+### Blankson [@BlanksonUS](https://x.com/BlanksonUS)
 
 ### Prince
 
