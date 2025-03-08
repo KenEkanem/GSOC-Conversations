@@ -1,7 +1,7 @@
 # GSOC-Conversations
 Repo for teams to reach and draggg people to the space
 
-Space Link:  [GSOC Conversations](bit.ly/gsoc-conv)
+Space Link:  [GSOC Conversations](https://bit.ly/gsoc-conv)
 
 
 ## X.com Usernames
