@@ -10,5 +10,5 @@ Repo for teams to reach and draggg people to the space
 
 ### Prince
 
-### Mosco
+### Mosco [@moscoTechh](https://x.com/moscoTechh)
 
