@@ -16,6 +16,7 @@ Repo for teams to reach and draggg people to the space
 - [ ] favourChi
 
 ### Mosco [@moscoTechh](https://x.com/moscoTechh)
+- [ ] mesrenyameDogbe
 
 ### Kennedy [@FusedTechie](https://x.com/FusedTechie)
 - [ ] Sophyia
