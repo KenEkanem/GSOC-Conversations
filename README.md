@@ -19,6 +19,7 @@ Space Link:  [GSOC Conversations](https://bit.ly/gsoc-conv)
 
 ### Mosco [@moscoTechh](https://x.com/moscoTechh)
 - [ ] mesrenyameDogbe
+- [ ] dunsincodes
 
 ### Kennedy [@FusedTechie](https://x.com/FusedTechie)
 - [ ] Sophyia
